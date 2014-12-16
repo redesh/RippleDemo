@@ -12,7 +12,7 @@ import android.view.Window;
 public class MainActivity extends Activity {
 	MyView view;
 	GestureDetector gs=null;
-	//List<Cricle> cs=null;
+	//List<Cricle> cs=null;//test
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
